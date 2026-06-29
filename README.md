@@ -5,12 +5,12 @@ A fun and interactive travel packing list app built with **React**. Never forget
 ---
 ## 📸 Preview
 
-![Far Away App Screenshot](~/Pictures/faraway.png)
+![Far Away App Screenshot](/home/awais/Pictures/faraway.png)
 
 ---
 
 ## ✨ Features
-
+awa
 - ➕ **Add items** with a custom quantity selector
 - ✅ **Mark items as packed/unpacked** using checkboxes
 - ❌ **Delete individual items** from the list
