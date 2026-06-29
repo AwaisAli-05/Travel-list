@@ -5,9 +5,7 @@ A fun and interactive travel packing list app built with **React**. Never forget
 ---
 ## 📸 Preview
 
-![Far Away App Screenshot](/home/awais/Pictures/faraway.png)
 
----
 
 ## ✨ Features
 awa
