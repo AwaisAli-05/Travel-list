@@ -3,16 +3,9 @@
 A fun and interactive travel packing list app built with **React**. Never forget your essentials again — add items, set quantities, mark them as packed, and track your packing progress all in one place.
 
 ---
-
-## 🖥️ Live Demo
-
-> _Add your deployed link here (e.g. Netlify, Vercel)_
-
----
-
 ## 📸 Preview
 
-![Far Away App Screenshot](./screenshot.png)
+![Far Away App Screenshot](~/Pictures/faraway.png)
 
 ---
 
