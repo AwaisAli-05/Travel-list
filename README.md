@@ -3,12 +3,7 @@
 A fun and interactive travel packing list app built with **React**. Never forget your essentials again — add items, set quantities, mark them as packed, and track your packing progress all in one place.
 
 ---
-## 📸 Preview
-
-
-
 ## ✨ Features
-awa
 - ➕ **Add items** with a custom quantity selector
 - ✅ **Mark items as packed/unpacked** using checkboxes
 - ❌ **Delete individual items** from the list
@@ -114,9 +109,10 @@ You have 4 items in your list and you already packed 4 (100%) 🎉
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Upwork: [Your Upwork Profile](https://upwork.com/freelancers/your-profile)
+**Muhammad Awais**
+- GitHub: https://github.com/AwaisAli-05/
+
+- Upwork: https://www.linkedin.com/in/muhammad-awais-a48259328/
 
 ---
 
