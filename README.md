@@ -112,7 +112,7 @@ You have 4 items in your list and you already packed 4 (100%) 🎉
 **Muhammad Awais**
 - GitHub: https://github.com/AwaisAli-05/
 
-- Upwork: https://www.linkedin.com/in/muhammad-awais-a48259328/
+- Linkedin: https://www.linkedin.com/in/muhammad-awais-a48259328/
 
 ---
 
